@@ -1051,3 +1051,87 @@ Day 11 → Mini GPT Architecture
 
 Day 12 → NovaGPT (Training + Text Generation)
 ```
+
+# 🛠️ Tech Stack
+
+This project was built entirely from scratch using **Python** and **PyTorch** to understand the internal working of **Large Language Models (LLMs)** and the **Transformer architecture**.
+
+| **Category**               | **Technologies**                  |
+| -------------------------- | --------------------------------- |
+| 🐍 Programming Language    | Python                            |
+| 🔥 Deep Learning Framework | PyTorch                           |
+| 🔢 Numerical Computing     | NumPy                             |
+| 📊 Data Visualization      | Matplotlib                        |
+| 📓 Development Environment | Jupyter Notebook / Google Colab   |
+| 🧠 AI Domain               | Natural Language Processing (NLP) |
+| 🤖 Model Architecture      | Transformer (GPT-style)           |
+
+
+# 📂 Repository Structure
+
+```text
+LLM-From-Scratch
+│
+├── 01_Tokenization.ipynb
+├── 02_Vocabulary.ipynb
+├── 03_Embeddings.ipynb
+├── 04_Next_Word_Prediction.ipynb
+├── 05_Softmax_CrossEntropy.ipynb
+├── 06_Temperature_Sampling.ipynb
+├── 07_Self_Attention.ipynb
+├── 08_Multi_Head_Attention.ipynb
+├── 09_Positional_Encoding.ipynb
+├── 10_Transformer_Block.ipynb
+├── 11_Training_Loop.ipynb
+├── 12_Mini_GPT(NovaGPT).ipynb
+└── README.md
+```
+
+# 🎯 Learning Outcomes
+
+By completing this repository, you will gain a strong understanding of the fundamental components that power modern Large Language Models.
+
+You will learn:
+
+* 🔤 Tokenization
+* 📚 Vocabulary Construction
+* 🔢 Token-to-ID Mapping
+* 🧩 Word Embeddings
+* 🔮 Next Word Prediction
+* 📊 Softmax & Cross-Entropy Loss
+* 🌡️ Temperature Sampling
+* 🎯 Self-Attention Mechanism
+* 👥 Multi-Head Attention
+* 📍 Positional Encoding
+* 🧱 Feed Forward Networks
+* 🔁 Residual Connections
+* 📐 Layer Normalization
+* 🏗️ Transformer Block Architecture
+* 🤖 Mini GPT Architecture
+* 💬 Autoregressive Text Generation
+
+
+# 🚀 Future Enhancements
+
+Future improvements planned for this project include:
+
+* 🔄 Byte Pair Encoding (BPE) Tokenizer
+* ⚡ Flash Attention Implementation
+* 🧠 Key-Value (KV) Cache for Faster Inference
+* 📚 Training on Larger Text Corpora
+* 💬 Interactive Chat Interface
+* 🌐 Web-Based Deployment
+* 🎯 Top-K and Top-P Sampling
+* 🧩 Model Fine-Tuning
+* 📈 Training Visualization and Performance Metrics
+
+
+# 📚 References
+
+The following resources were used for learning and understanding the concepts implemented in this project:
+
+* PyTorch Documentation
+* Attention Is All You Need (Transformer Paper)
+* The Illustrated Transformer
+* GPT Research Papers
+* Educational resources on Transformer Architecture and Large Language Models
